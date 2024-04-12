@@ -15,5 +15,5 @@
 
 ### [Story07 클래스 정보, 어떻게 알아낼 수 있나](./javastory/07.클래스정보,%20어떻게%20알아낼%20수%20있나.md)
 
-
+### [Story08 synchronized는 제대로 알고 써야 한다](./javastory/08.synchronized는%20제대로%20알고%20써야%20한다.md)
 
